@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/ae3c200f164f414c85b13a273f55c955/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/3332d482233e1afede63d48a3aacc276/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7acb973b49cbf9fe99eb7e47163d535b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e4a1e8fc0c87f1892c1fd57aec6add97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/68dbb833175441b4fda8079d0acd3d2a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/094cd764944459f3afa085e6ce3c1821/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4bb6f3e0c03b5a8e892facac6f0cf8a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/38d94806c69ee59a4b0a0fe5b9305c1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9f1e3b4369da74edbc909109708b777d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f15dc8dd297be95c123a4b8f280d9b84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0e2a9d71fea4e5b2b1e8ff6470105037/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3f4e2c3e119a5646e049bb859d2bf58b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e260068cf480ddbd113367e4dae85f4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8c7bedb1908577da9d1cf63f9f2d8293/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8415adf3b16821c352d223992971143/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cb57a727e1d2d5be879e9a605da79516/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d1619424f040b6e10a9a8dfe62962c63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/39a7d95016c8758fa755b8610b5beaa6/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a77af1100aa6616aa869209ccb2452a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2848624203ceec3200416e500879eb03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7501b55f35838a2898c57adaa925799f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/68dbb833175441b4fda8079d0acd3d2a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/68dbb833175441b4fda8079d0acd3d2a/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/094cd764944459f3afa085e6ce3c1821/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/094cd764944459f3afa085e6ce3c1821/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/39a7d95016c8758fa755b8610b5beaa6/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/39a7d95016c8758fa755b8610b5beaa6/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:13:9-40
+activity#dev.soumgraphic.com.toumsprofile.view.MainActivity
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:14:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/ae3c200f164f414c85b13a273f55c955/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/ae3c200f164f414c85b13a273f55c955/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/3332d482233e1afede63d48a3aacc276/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/3332d482233e1afede63d48a3aacc276/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7acb973b49cbf9fe99eb7e47163d535b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7acb973b49cbf9fe99eb7e47163d535b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e4a1e8fc0c87f1892c1fd57aec6add97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e4a1e8fc0c87f1892c1fd57aec6add97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/68dbb833175441b4fda8079d0acd3d2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/68dbb833175441b4fda8079d0acd3d2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/094cd764944459f3afa085e6ce3c1821/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/094cd764944459f3afa085e6ce3c1821/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4bb6f3e0c03b5a8e892facac6f0cf8a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4bb6f3e0c03b5a8e892facac6f0cf8a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/38d94806c69ee59a4b0a0fe5b9305c1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/38d94806c69ee59a4b0a0fe5b9305c1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9f1e3b4369da74edbc909109708b777d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9f1e3b4369da74edbc909109708b777d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f15dc8dd297be95c123a4b8f280d9b84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f15dc8dd297be95c123a4b8f280d9b84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0e2a9d71fea4e5b2b1e8ff6470105037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0e2a9d71fea4e5b2b1e8ff6470105037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3f4e2c3e119a5646e049bb859d2bf58b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3f4e2c3e119a5646e049bb859d2bf58b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e260068cf480ddbd113367e4dae85f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e260068cf480ddbd113367e4dae85f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8c7bedb1908577da9d1cf63f9f2d8293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8c7bedb1908577da9d1cf63f9f2d8293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8415adf3b16821c352d223992971143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8415adf3b16821c352d223992971143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cb57a727e1d2d5be879e9a605da79516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cb57a727e1d2d5be879e9a605da79516/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d1619424f040b6e10a9a8dfe62962c63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d1619424f040b6e10a9a8dfe62962c63/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/39a7d95016c8758fa755b8610b5beaa6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/39a7d95016c8758fa755b8610b5beaa6/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a77af1100aa6616aa869209ccb2452a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a77af1100aa6616aa869209ccb2452a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2848624203ceec3200416e500879eb03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2848624203ceec3200416e500879eb03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7501b55f35838a2898c57adaa925799f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/soumaila/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7501b55f35838a2898c57adaa925799f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/soumaila/AndroidStudioProjects/Toumsprofile/app/src/main/AndroidManifest.xml
