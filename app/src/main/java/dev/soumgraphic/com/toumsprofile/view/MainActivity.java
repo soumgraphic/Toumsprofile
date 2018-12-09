@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity implements PostsAdapter.Post
         user.setName("Soumgraphic CEO");
         user.setEmail("hello@soumgraphic.com");
         user.setProfileImage("https://avatars2.githubusercontent.com/u/25131434?s=460&v=4");
-        user.setAbout("Professor");
+        user.setAbout("Developer and Graphic designer");
 
         // ObservableField doesn't have setter method, instead will
         // be called using set() method
